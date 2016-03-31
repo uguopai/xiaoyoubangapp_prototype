@@ -882,7 +882,7 @@
   left:578px;
   top:110px;
   width:136px;
-  height:80px;
+  height:70px;
   font-size:28px;
   color:#FFFFFF;
   text-align:center;
@@ -892,12 +892,12 @@
   left:0px;
   top:0px;
   width:136px;
-  height:80px;
+  height:70px;
 }
 #u72 {
   position:absolute;
   left:0px;
-  top:24px;
+  top:18px;
   width:136px;
   word-wrap:break-word;
 }
@@ -988,5 +988,29 @@
   left:0px;
   top:0px;
   width:329px;
+  word-wrap:break-word;
+}
+#u81 {
+  position:absolute;
+  left:578px;
+  top:180px;
+  width:136px;
+  height:70px;
+  font-size:28px;
+  color:#FFFFFF;
+  text-align:center;
+}
+#u81_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:136px;
+  height:70px;
+}
+#u82 {
+  position:absolute;
+  left:0px;
+  top:18px;
+  width:136px;
   word-wrap:break-word;
 }
