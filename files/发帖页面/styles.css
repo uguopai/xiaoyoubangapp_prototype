@@ -246,3 +246,25 @@
 #u17_input:disabled {
   color:grayText;
 }
+#u18 {
+  position:absolute;
+  left:878px;
+  top:250px;
+  width:422px;
+  height:430px;
+  font-size:28px;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:422px;
+  height:430px;
+}
+#u19 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:422px;
+  word-wrap:break-word;
+}
